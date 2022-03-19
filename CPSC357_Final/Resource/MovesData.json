@@ -1,0 +1,75 @@
+[
+    
+    {
+        "name": "Edging",
+        "id": 1,
+        "imageName": "Edging",
+        "description": "Standing on small ledges or crystals with the edges of climbing shoes rather than the soles."
+    },
+    {
+        "name": "Smearing",
+        "id": 2,
+        "imageName": "Smearing",
+        "description": "Climbing technique in which the sole of the shoe, plus proper weight over the feet, provides traction for moving upward."
+    },
+    {
+        "name": "Drop Knee",
+        "id": 3,
+        "imageName": "DropKnee",
+        "description": "Drop knee is a footwork technique that involves heavily weighting the outside of one foot—with the opposing foot stemmed against another hold—in order to generate body tension. This position entails swiveling the corresponding hip towards the wall and torquing the knee downwards"
+    },
+    {
+        "name": "Stemming",
+        "id": 4,
+        "imageName": "Stemming",
+        "description": "Technique in which the hands and/or feet are pressed in opposition far out to each side, as in a dihedral or wide chimney."
+    },
+    {
+        "name": "Flagging",
+        "id": 5,
+        "imageName": "Flagging",
+        "description": "Flagging is counter balancing by using a limb to shift your weight."
+    },
+    {
+        "name": "Lay Backing",
+        "id": 6,
+        "imageName": "LayBacking",
+        "description": "Lay backing is when you pull and lean off one side of a flake or a crack and push your feet against the other side."
+    },
+    {
+        "name": "Mantle",
+        "id": 7,
+        "imageName": "Mantle",
+        "description": "A mantle is when you push down on a hold and bring feet up to meet hands."
+    },
+    {
+        "name": "Side Pull",
+        "id": 8,
+        "imageName": "SidePull",
+        "description": "A side pull is any hold that’s oriented for a sideways pull."
+    },
+    {
+        "name": "Gaston",
+        "id": 9,
+        "imageName": "Gaston",
+        "description": "A gaston is the inverse of side pull."
+    },
+    {
+        "name": "Palming",
+        "id": 10,
+        "imageName": "Palming",
+        "description": "Palming is the hand version of smearing"
+    },
+    {
+        "name": "Heel Hook",
+        "id": 11,
+        "imageName": "HeelHook",
+        "description": "A method of using the heel as the point of friction between the shoe and a climbing surface in order to balance or pull."
+    },
+    {
+        "name": "Toe Hook",
+        "id": 12,
+        "imageName": "ToeHook",
+        "description": "A method of using the top of the toes or foot as the point of friction between the shoe and a climbing surface in order to balance or pull."
+    },
+]

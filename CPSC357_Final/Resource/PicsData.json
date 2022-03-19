@@ -1,0 +1,34 @@
+[
+    
+    {
+        "name": "Holds",
+        "id": 1,
+        "imageName": "MainMenuHolds",
+        "description": "idk"
+    },
+    {
+        "name": "Moves",
+        "id": 2,
+        "imageName": "MainMenuMoves",
+        "description": "idk"
+    },
+    {
+        "name": "Map",
+        "id": 3,
+        "imageName": "MainMenuMap",
+        "description": "idk"
+    },
+    {
+        "name": "Definitions",
+        "id": 4,
+        "imageName": "MainMenuDefinitions",
+        "description": "idk"
+    },
+    {
+        "name": "References",
+        "id": 5,
+        "imageName": "MainMenuReferences",
+        "description": "idk"
+    },
+    
+]

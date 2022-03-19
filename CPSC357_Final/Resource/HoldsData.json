@@ -1,0 +1,40 @@
+[
+    
+    {
+        "name": "Jug",
+        "id": 1,
+        "imageName": "Jug",
+        "description": "Jugs are big, open holds that you can get your whole hand around. Jugs are most people’s favorite because they’re so easy to grip and they provide an excellent rest."
+    },
+    {
+        "name": "Crimp",
+        "id": 2,
+        "imageName": "Crimp",
+        "description": "A crimp is a very small edge that’s only big enough for the pads of your fingers. By getting your body weight closer to the wall, you can get a better angle on this tiny hold and you’ll have a better chance of staying connected to it."
+    },
+    {
+        "name": "Pinch",
+        "id": 3,
+        "imageName": "Pinch",
+        "description": "A pinch is exactly what it sounds like—any piece of rock that you can pinch with your thumb on one side and your fingers on the other. Because your thumb adds so much gripping power, use it any time you can get it on a hold."
+    },
+    {
+        "name": "Sloper",
+        "id": 4,
+        "imageName": "Sloper",
+        "description": "Slopers are big bulges with no positive angle for your hands to grip. They can be tricky, but good technique will have you climbing slopey routes in no time."
+    },
+    {
+        "name": "Pocket",
+        "id": 5,
+        "imageName": "Pocket",
+        "description": "Pockets are holes in the rock. They can be so small that you can barely fit one finger, or wide enough to fit your whole hand. Your middle finger is strongest; so make sure you use it if you only have room for one or two fingers."
+    },
+    {
+        "name": "Undercling",
+        "id": 6,
+        "imageName": "Undercling",
+        "description": "Like the name implies, an undercling is any hold you grip from the bottom so you can pull up. One key to a good undercling is to find good, high footholds so you can maintain body tension as you reach for the next hold."
+    },
+
+]
